@@ -1,3 +1,3 @@
 # GitGit
-#GitGit#
-###GitN###
+*#GitGit#*
+
