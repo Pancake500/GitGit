@@ -1,4 +1,3 @@
 # GitGit
-*#GitGit*
-*##GitGit*
-*######GitGit*
+*GitGit*
+
